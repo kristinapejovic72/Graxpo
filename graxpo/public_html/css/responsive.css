@@ -24,6 +24,10 @@
         color: #E84C3D;
         border-bottom: 2px solid #E84C3D ;
     }
+    
+    navbar-nav{
+        background: transparent;
+    }
 }
 
 
